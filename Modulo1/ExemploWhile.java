@@ -1,3 +1,5 @@
+package Modulo1;
+
 public class ExemploWhile {
     public static void main(String[] args) {
         int valor = 5;

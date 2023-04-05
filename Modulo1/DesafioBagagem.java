@@ -1,3 +1,5 @@
+package Modulo1;
+
 public class DesafioBagagem {
     public static void main(String[] args) {
 
